@@ -1,0 +1,4 @@
+#Thu Mar 08 11:58:54 CST 2018
+base.0=/Users/queeniepeng/Documents/Development/Android/Kotlin/Calculator/app/build/intermediates/transforms/dexMerger/debug/8
+path.0=classes.dex
+renamed.0=classes.dex
